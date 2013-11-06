@@ -1,0 +1,97 @@
+<?xml version="1.0" ?>
+<CALENDAR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="calendar.xsd">
+    <FACULTY name="faculty-of-arts" faculty="arts">
+        <TITLE>Faculty of Arts</TITLE>
+        <DEPARTMENT>
+            <PROGRAMS>
+                <PROGRAM name="ACAD" credential="Minor in Acadian Studies" prog-type="MIN" faculty="ARTS">
+                    <TITLE>Acadian Studies</TITLE>
+                    <P>http://upei.ca/programsandcourses/acadian-studies</P>
+                    <P>Co-ordinator</P>
+                    <P>Carlo Lavoie (Modern Languages)</P>
+                    <P>The Minor in Acadian Studies aims to provide a better understanding of the place and importance of the
+                        French language and the Acadian community on Prince Edward Island and in Maritime Canada. The program
+                        consists of an immersion in general cultural subject areas and of an analysis of specific literary and
+                        cultural topics. The study of Acadian culture may pave the way to graduate school and/or education
+                        programs or simply be complement to one’s University study. On the one hand, UPEI’s Minor in Acadian
+                        Studies offers students the opportunity to develop both their analytical and the practical skills in
+                        French and will provide its students with the foundational skills with which they can pursue their
+                        interest in the practice of French. On the other hand, the Minor in Acadian Studies aims to link in a
+                        common thematic different courses offered in English which propose a reflection on the Acadian as part of
+                        a cultural and linguistic minority.</P>
+                    <REQUIREMENTS><REQUIREMENT>
+                            <TITLE>REQUIREMENTS FOR A MINOR IN ACADIAN STUDIES</TITLE>
+                            <P>A Minor in Acadian Studies consists of <COURSE-REQT name="minor" credits="21">twenty-one
+                                    (21) semester hours of credit taken from the list of approved courses</COURSE-REQT>.
+                                    <COURSE-REQT name="language-req">The language requirements are <COURSE ref="FREN-241">French
+                                        241</COURSE> and <COURSE ref="FREN-242">French 242</COURSE> (both courses could be counted
+                                    in the Minor in Acadian Studies if they are not counted for the Major in
+                                French)</COURSE-REQT>. <COURSE-REQT name="acad-compulsory"><COURSE ref="ACAD-201">Acadian Studies
+                                        201</COURSE> plus three courses among <COURSE ref="ACAD-491">Acadian Studies
+                                        491</COURSE>/<COURSE ref="ACAD-491">492</COURSE>, <COURSE ref="ACAD-209">Special Topics
+                                        209</COURSE>, <COURSE ref="ACAD-309">309</COURSE>, and <COURSE ref="ACAD-409"
+                                    >409</COURSE>, and <COURSE ref="FREN-443">French 443</COURSE>/<COURSE ref="FREN-444"
+                                        >444</COURSE>, are compulsory for the Minor</COURSE-REQT>. Prospective students should
+                                note, however, that <COURSE ref="ACAD-491">Acadian Studies 491</COURSE> and <COURSE ref="ACAD-492"
+                                    >492</COURSE> require students to make a significant contribution to the study of Acadie which
+                                will be approved by the Instructor. One of these four courses will, typically, be only offered in
+                                the Winter Term of the academic year. In addition, students must select three elective courses.
+                                Students using any of the approved courses to complete the Minor in Acadian Studies may not use
+                                them to complete a Major or another Minor.</P>
+                            <COURSE-REQT>REQUIREMENTS IN FRENCH <COURSE ref="FREN-241">241 FRENCH</COURSE> (See French 241)
+                                    <COURSE ref="FREN-241">242 FRENCH</COURSE> (See French 242) </COURSE-REQT>
+                        </REQUIREMENT>
+                    </REQUIREMENTS>
+                    <TITLE>ACADIAN STUDIES CORE COURSES</TITLE>
+                    <COURSE name="ACAD-201"><TITLE>201 INTRODUCTION TO ACADIAN STUDIES</TITLE> This course is designed to provide
+                        an opportunity to examine the development of Acadian culture through the oral tradition, songs and folk
+                        tales. The themes of colonialism, regionalism, folklore and oral traditions will provide the basis for
+                        this examination. The object of the course is to develop an awareness of the complex patterns of
+                        development in Acadian culture from the French period to the present. The course will consist of seminars
+                        and lectures conducted in French.</COURSE>
+                    <REQUIREMENT>PREREQUISITES: <COURSE ref="FREN-241">French 241</COURSE> and <COURSE ref="FREN-242">French
+                            242</COURSE> or the <EXT-REQT name="permission">permission of the Coordinator of Acadian
+                            Studies</EXT-REQT>. <P>Three hours a week.</P></REQUIREMENT>
+                    <COURSE name="ACAD-209"><TITLE>209 SPECIAL TOPICS</TITLE> Creation of a course code for special topics offered
+                        by Acadian Studies at the 200 level.</COURSE>
+                    <COURSE name="ACAD-309"><TITLE>309 SPECIAL TOPICS</TITLE> Creation of a course code for special topics offered
+                        by Acadian Studies at the 300 level.</COURSE>
+                    <COURSE name="ACAD-409"><TITLE>409 SPECIAL TOPICS</TITLE> Creation of a course code for special topics offered
+                        by Acadian Studies at the 400 level.</COURSE>
+                    <COURSE-EQUIV ref="FREN-443" course="ACAD-443"><TITLE>443 CULTURE ET LITTÉRATURE ACADIENNES I </TITLE>(See
+                            <COURSE ref="FREN-443">French 443</COURSE>) </COURSE-EQUIV>
+                    <COURSE-EQUIV ref="FREN-444" course="ACAD-444"><TITLE>444 CULTURE ET LITTÉRATURE ACADIENNES
+                        II</TITLE></COURSE-EQUIV> (See <COURSE ref="FREN-444">French 444</COURSE>) <COURSE
+                        name="ACAD-491|ACAD-492"><TITLE>491/492 DIRECTED STUDIES</TITLE> The purpose of the course is to provide
+                        an opportunity for intensive interdisciplinary research in an area to be determined by the student and the
+                        coordinator of the program. Readings and research on the course will be supervised and the student is
+                        expected to present the results of the research in the form of an extended essay. This is a tutorial and
+                        seminar course. </COURSE> PREREQUISITE: <REQUIREMENT><COURSE-REQT name="ACAD-201">Acadian Studies
+                            201</COURSE-REQT> or the <EXT-REQT name="permission">permission of the Coordinator of Acadian
+                            Studies.</EXT-REQT>
+                        <P>Three hours a week (See Academic Regulation 9 for Regulations Governing Directed Studies)</P>
+                        <P><TITLE>ELECTIVES Note</TITLE>: Students who are enrolled in the Major in French and the Minor in
+                            Acadian Studies can take at least two electives outside the Department of Modern Languages.</P>
+                    </REQUIREMENT>
+                    <COURSE ref="CANA-301">CANADIAN STUDIES 301</COURSE>/<COURSE ref="CANA-302">302</COURSE>
+                    <TITLE>The Canadian Experience</TITLE>
+                    <COURSE ref="EDUC-213">EDUCATION 213 <TITLE>Introduction à l’éducation en français au Canada</TITLE></COURSE>
+                    <COURSE ref="ENGL-331"><TITLE>ENGLISH 331 The Literature of Atlantic Canada</TITLE></COURSE>
+                    <COURSE ref="HIST-231|HIST-232"><TITLE>HISTORY 231/232 The Atlantic Region</TITLE></COURSE>
+                    <COURSE ref="HIST-424"><TITLE>HISTORY 424 History of Canadian Nationalism and the Canadian
+                        Identity</TITLE></COURSE>
+                    <COURSE ref="MODE-252"><TITLE>MODERN LANGUAGES (French) 252 Le français des affaires</TITLE></COURSE>
+                    <COURSE ref="MODE-339"><TITLE>MODERN LANGUAGES 339 Théâtre canadien-français</TITLE></COURSE>
+                    <COURSE ref="SOCI-312"><TITLE>SOCIOLOGY &amp; ANTHROPOLOGY 312 Rural Society in Canada</TITLE></COURSE>
+                    <COURSE ref="SOCI-431"><TITLE>SOCIOLOGY &amp; ANTHROPOLOGY 431 Minority/Ethnic Groups and Canadian
+                            Multiculturalism</TITLE></COURSE>
+                    <COURSE ref="WOME-311"><TITLE>WOMEN STUDIES 311 Identity and Popular Culture</TITLE></COURSE>
+                    <P><TITLE>DIRECTED STUDIES</TITLE>
+                        <EXT-REQT>With the approval of the Coordinator, the Dean of Arts, and the relevant Department, a student
+                            may credit three hours of Directed Studies in any subject linked to Acadian Studies towards the
+                            Minor</EXT-REQT>. </P>
+                </PROGRAM>
+            </PROGRAMS>
+        </DEPARTMENT>
+    </FACULTY>
+</CALENDAR>
